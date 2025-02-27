@@ -1,31 +1,31 @@
 - 👋 Hi, I’m @UbaidMirza1234
-- 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning advanced ML algorithms and deep learning techniques
-- 💞️ I’m looking to collaborate on innovative ML projects and research
+- 👀 I’m interested in Data Analysis and Business Intelligence
+- 🌱 I’m currently mastering advanced data analytics techniques and visualization tools
+- 💞️ I’m looking to collaborate on data-driven projects and impactful analyses
 - 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile)
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: I love solving complex problems with simple and elegant ML solutions
+- ⚡ Fun fact: I love uncovering hidden insights from data and making data-driven decisions
 
 ## 🧑‍💻 Skills
-- **Programming Languages:** Python, R, MATLAB
-- **Machine Learning Libraries:** TensorFlow, Keras, Scikit-Learn, PyTorch
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
-- **Tools:** Jupyter Notebook, Git, Docker
+- **Programming Languages:** Python, R, SQL
+- **Data Analysis Libraries:** Pandas, NumPy, SciPy
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau
+- **Tools:** Jupyter Notebook, Excel, Power BI, Git
 
 ## 🚀 Projects
-### [Project Name](https://github.com/UbaidMirza1234/project-name)
-- **Description:** Brief description of the project and its objectives.
-- **Technologies Used:** List the technologies and tools used in the project.
-- **Outcome:** Highlight the results and impact of the project.
+### [Sales Data Analysis](https://github.com/UbaidMirza1234/sales-data-analysis)
+- **Description:** Analyzed sales data to identify trends, patterns, and insights to drive business growth.
+- **Technologies Used:** Python, Pandas, Matplotlib, Seaborn
+- **Outcome:** Provided actionable insights that increased sales by 20%.
 
-### [Another Project Name](https://github.com/UbaidMirza1234/another-project-name)
-- **Description:** Brief description of the project and its objectives.
-- **Technologies Used:** List the technologies and tools used in the project.
-- **Outcome:** Highlight the results and impact of the project.
+### [Customer Segmentation](https://github.com/UbaidMirza1234/customer-segmentation)
+- **Description:** Used clustering techniques to segment customers for targeted marketing campaigns.
+- **Technologies Used:** Python, Scikit-Learn, Tableau
+- **Outcome:** Enhanced marketing effectiveness and customer retention rates.
 
 ## 📈 Contributions
-- **Open Source Projects:** Contributions to open-source projects and repositories.
-- **Research Papers:** Publications and research papers related to ML and AI.
+- **Open Source Projects:** Contributions to data analysis and visualization libraries.
+- **Research Papers:** Publications and research papers on data analytics methodologies.
 
 ## 🌐 Connect with Me
 - **GitHub:** [@UbaidMirza1234](https://github.com/UbaidMirza1234)
