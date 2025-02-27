@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love uncovering hidden insights from data and making data-driven decisions
 
 ## 🧑‍💻 Skills
-- **Programming Languages:** Python, R, SQL
+- **Programming Languages:** C,C++,Python, SQL
 - **Data Analysis Libraries:** Pandas, NumPy, SciPy
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau
 - **Tools:** Jupyter Notebook, Excel, Power BI, Git
