@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis and Business Intelligence
 - 🌱 I’m currently mastering advanced data analytics techniques and visualization tools
 - 💞️ I’m looking to collaborate on data-driven projects and impactful analyses
-- 📫 How to reach me: ubaidullah8499@gmail.com | [LinkedIn]:-https://www.linkedin.com/in/ubaid-ullah-mirza
+- 📫 How to reach me E-mail:-ubaidullah8499@gmail.com | [LinkedIn]:-https://www.linkedin.com/in/ubaid-ullah-mirza
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I love uncovering hidden insights from data and making data-driven decisions
 
