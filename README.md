@@ -29,8 +29,7 @@
 
 ## 🌐 Connect with Me
 - **GitHub:** [@UbaidMirza1234](https://github.com/UbaidMirza1234)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** https://www.linkedin.com/in/ubaid-ullah-mirza
 
 <!---
 UbaidMirza1234/UbaidMirza1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
