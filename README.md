@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @UbaidMirza1234
+- 👋 Hi, I’m Ubaid Ullah Mirza
 - 👀 I’m interested in Data Analysis and Business Intelligence
 - 🌱 I’m currently mastering advanced data analytics techniques and visualization tools
 - 💞️ I’m looking to collaborate on data-driven projects and impactful analyses
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📫 How to reach me: ubaid8499@gmail.com | [LinkedIn]:-ubaid-ullah-mirza
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I love uncovering hidden insights from data and making data-driven decisions
 
