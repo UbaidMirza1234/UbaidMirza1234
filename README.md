@@ -9,7 +9,7 @@
 ## 🧑‍💻 Skills
 - **Programming Languages:** C,C++,Python, SQL
 - **Data Analysis Libraries:** Pandas, NumPy, SciPy
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Tools:** Jupyter Notebook, Excel, Power BI, Git
 
 ## 🚀 Projects
@@ -20,7 +20,7 @@
 
 ### [Customer Segmentation](https://github.com/UbaidMirza1234/customer-segmentation)
 - **Description:** Used clustering techniques to segment customers for targeted marketing campaigns.
-- **Technologies Used:** Python, Scikit-Learn, Tableau
+- **Technologies Used:** Python, Scikit-Learn
 - **Outcome:** Enhanced marketing effectiveness and customer retention rates.
 
 ## 📈 Contributions
