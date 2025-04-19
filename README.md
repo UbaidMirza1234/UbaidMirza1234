@@ -5,7 +5,7 @@
 - 📫 How to reach me E-mail:-ubaidullah8499@gmail.com | [LinkedIn]:-https://www.linkedin.com/in/ubaid-ullah-mirza
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I love uncovering hidden insights from data and making data-driven decisions
-- 
+  
 
 ## 🧑‍💻 Skills
 - **Programming Languages:** C,C++,Python, SQL
@@ -40,15 +40,23 @@
 - **Description:** Used clustering techniques to segment customers for targeted marketing campaigns.
 - **Technologies Used:** Python, Scikit-Learn
 - **Outcome:** Enhanced marketing effectiveness and customer retention rates.
-- 
-  ## ⭐ GitHub Stars
-
-![GitHub Stars](https://img.shields.io/github/stars/UbaidMirza1234?style=for-the-badge&logo=github&label=Stars&color=yellow)
+  
+  
 
 ## 📈 GitHub Statistics
 
 ### GitHub Stats:
 ![Ubaid Mirza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UbaidMirza1234&show_icons=true&theme=radical)
+
+## 🌟 Achievements
+
+### ⭐ GitHub Stars
+![GitHub Stars](https://img.shields.io/github/stars/UbaidMirza1234?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow)
+
+### 🏆 Other Achievements
+- 🎯 **Projects Completed**: Successfully completed multiple data analysis and visualization projects.
+- 📊 **Repositories Created**: Built repositories with insights and innovative solutions.
+- 🌐 **Contributions**: Actively contributed to open-source projects and community initiatives.
 
 
 
