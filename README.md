@@ -23,6 +23,10 @@
 - **Technologies Used:** Python, Scikit-Learn
 - **Outcome:** Enhanced marketing effectiveness and customer retention rates.
 
+## 📈 GitHub Stats
+![Ubaid Mirza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UbaidMirza1234&show_icons=true&theme=radical)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidMirza1234&layout=compact&theme=radical)](https://github.com/UbaidMirza1234)
+
 ## 📈 Contributions
 - **Open Source Projects:** Contributions to data analysis and visualization libraries.
 - **Research Papers:** Publications and research papers on data analytics methodologies.
