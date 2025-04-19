@@ -15,12 +15,12 @@
 
 ## 🌐 Connect with Me
 - **GitHub:** [@UbaidMirza1234](https://github.com/UbaidMirza1234)
-- <a href="https://github.com/UbaidMirza1234" target="_blank">
+ <a href="https://github.com/UbaidMirza1234" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 - **LinkedIn:** https://www.linkedin.com/in/ubaid-ullah-mirza
-- <a href="https://www.linkedin.com/in/ubaid-ullah-mirza" target="_blank">
+ <a href="https://www.linkedin.com/in/ubaid-ullah-mirza" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
