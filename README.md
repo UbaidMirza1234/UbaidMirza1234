@@ -34,6 +34,15 @@
 ### Streak Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=UbaidMirza1234&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
+### Most Used Languages:
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidMirza1234&layout=compact&theme=radical)](https://github.com/UbaidMirza1234)
+
+### Top Languages by Repository:
+[![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UbaidMirza1234&theme=radical)](https://github.com/UbaidMirza1234)
+
+### Activity Graph:
+[![Ubaid Mirza's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UbaidMirza1234&theme=radical)](https://github.com/UbaidMirza1234)
+
 ## 📈 Contributions
 - **Open Source Projects:** Contributions to data analysis and visualization libraries.
 - **Research Papers:** Publications and research papers on data analytics methodologies.
