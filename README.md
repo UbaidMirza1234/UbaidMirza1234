@@ -27,6 +27,17 @@
 ![Ubaid Mirza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UbaidMirza1234&show_icons=true&theme=radical)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidMirza1234&layout=compact&theme=radical)](https://github.com/UbaidMirza1234)
 
+## 📈 GitHub Statistics
+
+### GitHub Stats:
+![Ubaid Mirza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UbaidMirza1234&show_icons=true&theme=radical)
+
+### Top Languages:
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidMirza1234&layout=compact&theme=radical)](https://github.com/UbaidMirza1234)
+
+### Streak Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=UbaidMirza1234&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 ## 📈 Contributions
 - **Open Source Projects:** Contributions to data analysis and visualization libraries.
 - **Research Papers:** Publications and research papers on data analytics methodologies.
