@@ -7,12 +7,16 @@
 - ⚡ Fun fact: I love uncovering hidden insights from data and making data-driven decisions
   
 
+## 🌐 Connect with Me
+- **GitHub:** [@UbaidMirza1234](https://github.com/UbaidMirza1234)
+- **LinkedIn:** https://www.linkedin.com/in/ubaid-ullah-mirza
+
 ## 🧑‍💻 Skills
 - **Programming Languages:** C,C++,Python, SQL
 - **Data Analysis Libraries:** Pandas, NumPy, SciPy
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Tools:** Jupyter Notebook, Excel, Power BI, Git
-- 
+  
 ## 🛠️ Languages & Tools
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -73,9 +77,7 @@
 - **Open Source Projects:** Contributions to data analysis and visualization libraries.
 - **Research Papers:** Publications and research papers on data analytics methodologies.
 
-## 🌐 Connect with Me
-- **GitHub:** [@UbaidMirza1234](https://github.com/UbaidMirza1234)
-- **LinkedIn:** https://www.linkedin.com/in/ubaid-ullah-mirza
+
 
 <!---
 UbaidMirza1234/UbaidMirza1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
