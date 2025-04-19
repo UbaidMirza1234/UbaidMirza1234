@@ -1,12 +1,8 @@
 # 🌟 WELCOME TO MY PROFILE 🌟  
-### Aspiring Data Analyst | Passion for Data-Driven Insights 📊  
 
-Hello! I'm **Ubaid Ullah Mirza**, an aspiring data analyst who loves exploring the world of data and uncovering meaningful insights. Welcome to my GitHub profile where I showcase my journey, projects, and skills in data analytics and programming. 🚀  
 
 ## 📊 About Me
 
-![Data Analyst Illustration](https://undraw.co/api/illustrations/svg?search=data%20analysis)  
-*Turning data into actionable insights!*
 
 - 👋 Hi, I’m Ubaid Ullah Mirza
 - 👀 I’m interested in Data Analysis and Business Intelligence
